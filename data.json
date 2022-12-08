@@ -1,0 +1,482 @@
+{
+    "SCRCRDPNM06MPFLGBCLFALLV4": {
+        "name": "CONCESSÃO - P4",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMCCRPFLGBCLFV2": {
+        "name": "CONCESSÃO - CARTÃO DE CRÉDITO V2",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMCRPPFCTBCLFV2": {
+        "name": "CONCESSÃO - CRÉDITO PESSOAL V2",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMVEIPFCTBCLFV2": {
+        "name": "CONCESSÃO - FINANCIAMENTO DE VEÍCULOS V2",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMIMOPFLGBCLFV1": {
+        "name": "CONCESSÃO - FINANCIAMENTO IMOBILIÁRIO V1",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNM6MMLV3": {
+        "name": "CONCESSÃO - P3",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRBHVHIBCARTAOMLV2": {
+        "name": "BEHAVIOR - CARTÃO DE CRÉDITO",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPROPPNMMOTOSPFMLV1": {
+        "name": "PROPENSÃO - MOTOS POPULARES",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPROPPNMCARTAOPFMLV1": {
+        "name": "PROPENSÃO - CARTÃO DE CRÉDITO",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPRPPNMCRPPFLGBCLFALLV2": {
+        "name": "PROPENSÃO - CRÉDITO PESSOAL",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPRPPNMCSGPFLGBCLFALLV2": {
+        "name": "PROPENSÃO - CONSIGNADO",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPRPPNMVEIPFLGBCLFALLV2": {
+        "name": "PROPENSÃO - FINANCIAMENTO DE VEÍCULOS ",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPRPPNMCONPFLGBCLFALLV2": {
+        "name": "PROPENSÃO - CONSÓRCIO",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRPROPRNGHIB60DPFMLV1": {
+        "name": "RENEGOCIAÇÃO - RENEGOCIAÇÃO DE DÍVIDAS BANCÁRIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNMALINPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA GERAL",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNM05A30DPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA PARA ATRASOS ENTRE 5 E 30 DIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNM31A60DPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA PARA ATRASOS ENTRE 31 E 60 DIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNM61A90DPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA PARA ATRASOS ENTRE 61 E 90 DIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNM91A180DPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA PARA ATRASOS ENTRE 91 E 180 DIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNM181A360DPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA PARA ATRASOS ENTRE 181 E 360 DIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRRECPNM361A1800DPFMLV1": {
+        "name": "COBRANÇA - COBRANÇA PARA ATRASOS ACIMA DE 360 DIAS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMFPDPFMLV1": {
+        "name": "CONCESSÃO FPD - FPD GERAL",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMFPDCARTOESPFMLV1": {
+        "name": "CONCESSÃO FPD - FPD PARA CARTÃO DE CRÉDITO",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    " SCRCRDPNMFPDCPPFMLV1": {
+        "name": "CONCESSÃO FPD - FPD PARA CRÉDITO PESSOAL",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMFPDVEICPFMLV1": {
+        "name": "CONCESSÃO FPD - FPD PARA FINANCIAMENTO DE VEÍCULOS",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRSINPNMAUTPFLGBCLFSEGV1": {
+        "name": "SINISTRO - AUTOMÓVEL COM VARIÁVEIS CEP E IDADE",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRSINPNMAUTPFLGBCLFSEGV2": {
+        "name": "SINISTRO - AUTOMÓVEL SEM VARIÁVEIS CEP E IDADE",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRSINPNMRESPFLGBCLFSEGV1": {
+        "name": "SINISTRO - RESIDENCIAL",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRSINPNMRESPFLGBCLFSEGV2": {
+        "name": "SINISTRO - RESIDENCIAL SEM VARIÁVEIS CEP E IDADE",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "RANKRNDRPRPNMPFMMLREGV1": {
+        "name": "RENDA PRESUMIDA FAIXA",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "RNDRPRPNMPFMMLREGV1": {
+        "name": "RENDA PRESUMIDA VALOR",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "CC_SM_USO_LIM_07": {
+        "name": "LIMITE CONJUGADO CARTÃO DE CRÉDITO",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "CC_SC_MD_PND_TVP_02A07M": {
+        "name": "ÍNDICE DE PONTUALIDADE CARTÃO DE CRÉDITO",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "CC_SC_RVL_TRS_02A07M": {
+        "name": "ÍNDICE TRANSACTOR/REVOLVER CARTÃO DE CRÉDITO",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "EXTE_IND_VUL_PF": {
+        "name": "ÍNDICE DE VULNERABILIDADE",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "INF_MERC": {
+        "name": "Performance Inferida Positiva",
+        "category": "PERFORMANCE INFERIDA BASEADA NO COMPORTAMENTO POSITIVO",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNM12MPJMLV3": {
+        "name": "CONCESSÃO - P3",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMMEIPJMLV1": {
+        "name": "CONCESSÃO - MEI",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMMEPJMLV1": {
+        "name": "CONCESSÃO - ME",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMEPPPJMLV1": {
+        "name": "CONCESSÃO - EPP",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "SCRCRDPNMDEMAISPJMLV1": {
+        "name": "CONCESSÃO - DEMAIS PORTES",
+        "category": "MODELOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "RANKFATPRESPOS": {
+        "name": "FATURAMENTO PRESUMIDO - FAIXA ",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "PSN_CT_PTE_PRD_PJ": {
+        "name": "PORTE DA EMPRESA",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "CAD_FL_MEI_PJ": {
+        "name": "FLAG MEI",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "CAD_CT_NAT_JUR_PJ": {
+        "name": "NATUREZA JURIDICA",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "NEG_CT_VP32_RM_ATV_PJ": {
+        "name": "RAMO DE ATIVIDADE",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "INDOPERPNMV1": {
+        "name": "ÍNDICE DE OPERACIONALIDADE",
+        "category": "ATRIBUTOS POSITIVOS",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    },
+    "90MOB12": {
+        "name": "90 DIAS EM 12 MESES ",
+        "category": "PERFORMANCE INFERIDA BASEADA NO COMPORTAMENTO POSITIVO",
+        "description": "",
+        "returns": 0,
+        "inputs": {
+            "features": [],
+            "models": []
+        }
+    }
+}
